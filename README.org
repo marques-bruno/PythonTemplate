@@ -1,0 +1,4 @@
+#+title:Super basic python TDD project starting kit
+
+* Creates a package with setup.py
+* pytest for tdd
